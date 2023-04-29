@@ -1,0 +1,62 @@
+.gallery-photo{
+    width:auto;
+    padding:5px;
+    border-radius:50%;
+    border: 3px solid green;
+    height:100px;
+    float:right;
+}
+.footer{
+    width:100vw;
+    height:10%;
+    background-color:limegreen;
+    clear:both;
+}
+.gallery{
+    height:650px;
+    width:20%;
+    float:right;
+}
+*{
+    margin:0;
+}
+.gallery-header{
+    text-align:center;
+    width:100%;
+    padding-top:5px;
+}
+.content{
+    height:650px;
+    float:left;
+    width: 1000px;
+}
+.post{
+    width:50%;
+    background-color:lightgreen;
+    padding:5px;
+    margin:5px;
+    border-radius:15px;
+    float:left;
+}
+.header-photo{
+    width:40px;
+    float:left;
+    margin-left:32.5%;
+}
+.header{
+    background-color: LimeGreen;
+    color:white;
+    margin-bottom:15px;
+}
+.underheader{
+    background-color: lightgreen;
+    padding-bottom:1px;
+    padding-top:1px;
+    color:black;
+}
+li{
+    display:inline-block;
+}
+ul{
+    margin-left:32.5%;
+}
